@@ -6,7 +6,7 @@ This is a basic command handler for your bot.
 
 # How do I set it up?
 
-First fork this repl then configuration is in the config.json file. You can replace the token with your bot token and the prefix to whatever prefix you want.
+First fork this repo then configuration is in the config.json file. You can replace the token with your bot token and the prefix to whatever prefix you want.
 
 # How do I add commands?
 
